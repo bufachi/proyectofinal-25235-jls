@@ -11,8 +11,8 @@ const Footer = () => {
         <h2 id="mapa">MAPA DE UBICACION</h2>
         <iframe
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2778.6133299729217!2d-58.36735132425862!3d-34.6284668729454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a334c941248855%3A0x58a5b83cdfbc5233!2sNecochea%20321%2C%20C1158ACA%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires!5e1!3m2!1ses-419!2sar!4v1746715126984!5m2!1ses-419!2sar"
-          width="100%"
-          height="450"
+          width="50%"
+          height="300"
           style={{ border: 0 }}
           allowFullScreen
           loading="lazy"
