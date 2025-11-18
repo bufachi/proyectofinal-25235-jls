@@ -160,4 +160,8 @@ const CrudProductos = () => {
   );
 };
 
+<<<<<<< HEAD
 export default CrudProductos;
+=======
+export default CrudProductos;
+>>>>>>> 639931929a774ecc74a520fb837fbf590b141899
