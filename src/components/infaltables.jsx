@@ -5,9 +5,10 @@ const Infaltables = () => {
   return (
     <div className="container">
       <h1>imprescindible</h1>
-      <ProductList category stock ={10}/>
+      <ProductList price={20}/>
     </div>
   );
 };
 
 export default Infaltables;
+
